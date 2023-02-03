@@ -1,2 +1,2 @@
 # Material de IPM
-Resumo teórico da cadeira.
+Resumo teórico (bastante incompleto) da cadeira.
